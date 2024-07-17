@@ -1,0 +1,40 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Projeto - O Folclore e o Forró",
+      "descricao": "O projeto apresenta uma narrativa das influências de danças folclóricas pernambucana no Forró pé-de-serra, muito praticado em todo o país e em vários lugares do mundo, valorizando a cultura popular. As danças tradicionais como o Coco, Xaxado, Toré, Maracatu e Cavalo-Marinho têm grande influência rítmica e na construção dos passos mais tradicionais do Forró. A proposta tem como objetivo a demonstração prática dessas influências na construção da dança no próprio corpo do bailarino/intérprete e a criação de uma coreografia como resultado de toda a narrativa.",
+      "link": "https://youtu.be/wTVmaMCiGW0",
+      "categoria": "Dança de Salão"
+    },
+    {
+      "id": 2,
+      "titulo": "Darilson Cassiano e Breno Vieira - Coreografia de Salsa solo (AfroStyle)",
+      "descricao": "Coreografia de Salsa solo (AfroStyle), apresentada na mostra coreográfica do 3º Porto Alegre Salsa Congress, em 2013.",
+      "link": "https://www.youtube.com/watch?v=HLiA2q_MIlc",
+      "categoria": "Dança de Salão"
+    },
+    {
+      "id": 3,
+      "titulo": "Breno Vieira e Maria Eduarda - Trecho do espetáculo Entre Laços, da Cia Uno",
+      "descricao":"Coreografia e trabalho cênico com a música Beija Eu - (Silva canta Marisa)",
+      "link": "https://www.youtube.com/watch?v=iIL26LRi-Vk",
+      "categoria": "Dança de Salão"
+    },
+    {
+      "id": 4,
+      "titulo": "Documentário: Projeto Negrô",
+      "descricao":"As danças de salão são manifestações culturais urbanas marcadas por contextos histórico-sociais, lutas, costumes e expressões artísticas. Muitas dessas linguagens não se limitam a um território e transcendem fronteiras, como o zouk brasileiro, salsa, tango, samba e o forró.O projeto  tem como construção do seu produto artístico a relação das danças negras e de matrizes africanas associadas as danças a dois. Evidenciar o valor cultural, ancestralidade e corporeidade através da dança e música. Negrô foi pensado para ser um fragmento coreográfico, mas em razão das necessidades de adaptações se transformou em um registro do processo de pesquisa e do construir coletivo. O elenco é composto por artistas pernambucanos com diferentes vivências profissionais e influências. A Uno Companhia de Dança tem a ousadia e orgulho de apresentar um trabalho com um tema rico em representatividade e diversidade. NEGRÔ é  inspiração antes mesmo da criação",
+      "link": "https://www.youtube.com/watch?v=V-YFFUs57CA&t=244s",
+      "categoria": "Dança de Salão"
+    },
+    {
+      "id": 5,
+      "titulo": "Projeto CORPOS DE DUAS",
+      "descricao":"O projeto “Corpos de Duas” mergulha no universo de criação de duas dançarinas pernambucanas que desenvolveram um produto artístico a partir do desdobramento de investigação de uma dança com condução compartilhada e disruptiva, em que o papel de conduzir e ser conduzida se fundem na construção de corpos dançantes que vão além dos gêneros e papéis pré-estabelecidos no executar.O produto consiste no desenvolvimento de uma coreografia e registros dos treinos e laboratórios de pesquisa. Respeitar a singularidade e potencializar a vivência de cada uma em si diferentes, foram as premissas para a criação de uma dança feita com Corpos de duas.",
+      "link": "https://www.youtube.com/watch?v=I95uevy4JbI",
+      "categoria": "Dança de Salão"
+    } 
+  ]
+}
+  
