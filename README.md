@@ -1,16 +1,10 @@
-
-### OneFlix
-![Banner](public/imagens/capa-one-piece1.png)
-
----
-
 # Projeto de Gestão e Visualização de Vídeos
 
 Este projeto é uma aplicação web para gestão de vídeos, permitindo aos usuários adicionar, editar, excluir e favoritar vídeos. A aplicação é construída com foco em fornecer uma interface amigável e intuitiva para a organização e visualização.
 
 ## Funcionalidades
 
-- **Adicionar Vídeos:** Os usuários podem adicionar novos vídeos ao sistema através de um formulário. As informações incluem título, categoria, URL da capa, link do vídeo e descrição.
+- **Adicionar Vídeos:** Os usuários podem adicionar novos vídeos ao sistema através de um formulário. As informações incluem título, categoria, link do vídeo e descrição.
 - **Editar Vídeos:** Os vídeos existentes podem ser editados para atualizar qualquer uma das informações fornecidas.
 - **Excluir Vídeos:** Vídeos podem ser removidos da lista.
 - **Favoritar Vídeos:** Os usuários podem marcar vídeos como favoritos para fácil acesso.
@@ -61,14 +55,5 @@ ou
 yarn start
 ```
 A aplicação estará disponível em `http://localhost:3000`.
-
----
-
-## Contato
-
-- **Nome:** Isadora Machado
-- **Email:** izzymachados@gmail.com
-- **GitHub:** [Isa-MachadoS]([https://github.com/seu-usuario](https://github.com/Isa-MachadoS))
-- **Linkedin:** [isadora-machados]([https://www.linkedin.com/in/isadora-machados/])
 
 ---
